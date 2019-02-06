@@ -1,14 +1,23 @@
 Simple model with two fullt connected (Dense) layers.
 
 Model architecture:
+
 -----------------------------------------------------------------
-Layer (type)                 Output Shape              Param #   
+
+Layer (type)                 Output Shape              Param # 
+
 =================================================================
-dense_1 (Dense)              (None, 32)                25120     
+
+dense_1 (Dense)              (None, 32)                25120  
+
 -----------------------------------------------------------------
-dense_2 (Dense)              (None, 10)                330       
+
+dense_2 (Dense)              (None, 10)                330      
+
 =================================================================
+
 Total params: 25,450
 Trainable params: 25,450
 Non-trainable params: 0
+
 -----------------------------------------------------------------
