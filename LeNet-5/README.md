@@ -32,6 +32,14 @@ Results_LeNet.txt
  ``
 Results (confusion matrix etc.)
  ``
+ Comparison.py
+ ``
+ compares this model with the simple model
+ ``
+ comparison.png
+ ``
+ Comparison plot between LeNet and simple 
+ ``
 
 Model architecture:
 
