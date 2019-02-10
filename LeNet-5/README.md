@@ -1,4 +1,37 @@
-New LeNet-5 will be committed soon.
+Unoptimized LeNet-5 implementations
+
+-----------------------------------------------------------------
+Files:
+
+-----------------------------------------------------------------
+MNIST_LeNet.py
+``
+Trains model and saves it and the weights.
+ ``
+LeNet.py
+ ``
+Loads and evaluates model.
+  ``
+MNIST_LeNet.json
+ ``
+The saved model.
+ ``
+MNIST_LeNet.h5
+ ``
+The saved weights.
+ ``
+MNIST_LeNet.png
+ ``
+Training data plot
+  ``
+lenet_train_hist_dict
+```
+Saved training data
+```
+Results_LeNet.txt
+ ``
+Results (confusion matrix etc.)
+ ``
 
 Model architecture:
 
