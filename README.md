@@ -1,3 +1,8 @@
+# NB!
+The file structure is a mess and a lot of duplicate code between files.
+Some small adjustment to function return parameters will allow me to standardize output and thus
+"save file" and "plotting" functions etc. in separate files.
+
 # Deep Learning
 
 Implementations of a simple neural network and the LeNet-5 acrchitecture with k-fold cross validation  
