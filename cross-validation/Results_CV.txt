@@ -1,0 +1,13 @@
+LeNet with CV SGD average metrics:
+
+Average Loss:     0.07417590322433971
+Mean Loss:        0.07417590322433971
+Average Accuracy: 0.9769
+Mean Accuracy:    0.9769
+
+LeNet with CV L2 average metrics
+
+Average Loss:     1.8074793338775637
+Mean Loss:        1.8074793338775637
+Average Accuracy: 0.52835
+Mean Accuracy:    0.52835
