@@ -25,9 +25,9 @@ MNIST_LeNet.png
 Training data plot
   ``
 lenet_train_hist_dict
-```
+``
 Saved training data
-```
+``
 Results_LeNet.txt
  ``
 Results (confusion matrix etc.)
